@@ -1,5 +1,8 @@
 Spacemacs Macros for different languages
 ========================================
+These are not based on any language servers, repls etc. 
+just dumb macros
+
 # PHP major mode #
 
 | Hotkey  | Action         |
